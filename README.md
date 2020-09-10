@@ -34,3 +34,12 @@ Image:
 
 Console.log:  
 ![image](https://user-images.githubusercontent.com/67118229/92775951-aa1bb880-f353-11ea-9a4a-20ae5885d731.png)
+
+
+References:  
+Bootstrap  
+Fontawesome  
+google fonts  
+w3 schools  
+JQuery  
+Moment.js  
