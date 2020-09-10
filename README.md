@@ -18,6 +18,11 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page  
 THEN the saved events persist  
 
+Dailyplanner:  
+12 hour time frame 9am-9pm  
+Colors based on each hour block  
+Disables Past Timeblocks.
+
 
 
 Working planner link:   [Planner](https://tbonexas.github.io/dailyplanner/)
