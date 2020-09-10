@@ -6,4 +6,4 @@ Day Planner for a 12 hour work day. Week 5 HW
 Working planner link:
 
 Demo:
-![github]("https://drive.google.com/file/d/1qm2JO738lXFRcchJpnhHr0zeuYEmjGx3/view")
+![github](https://user-images.githubusercontent.com/67118229/92774169-0da4e680-f352-11ea-9bac-ab19d05092df.gif)
