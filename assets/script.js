@@ -21,7 +21,6 @@ for (var hour = 9; hour < 22; hour++) {
            <div class='col-sm col-md-2 hour'>
              <p>${moment({hour}).format('h  a')}</p>
            </div>
-
         <!--scheduling column-->
            <div class='col-sm col-md-10 d-flex description'>
               <div class='input-group'>
@@ -34,7 +33,9 @@ for (var hour = 9; hour < 22; hour++) {
               </div>
             </div>
           </div>`);
+// End BS columns generation // 
 }
+
 
 // Checks time for present, past, or future //
 $.each($('.time-block'), function(index, value) {
